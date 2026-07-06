@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# IR toplama ciktilari (repoya girmemeli)
+IR_*/
+*.zip
+*.7z
+*_ZIP_SHA256.txt
+*_ARCHIVE_SHA256.txt
